@@ -1,2 +1,3 @@
 # hello-world
-for fun learning
+Hi All 
+welcome to world of programming since 1999  
